@@ -10,7 +10,7 @@
 0.1  课程内容  
 0.2  参考教材  
 0.3  考核方式
-##  1.软件测试概述（PPT下载）
+##  1.软件测试概述（[PPT下载](https://github.com/npubird/softwaretesting/blob/master/软件测试概述.pdf)）
 1.1  软件测试发展史 （BUG的故事）  
 1.2  软件测试意义  
 1.3  BUG的理解 （理解BUG, Fault反思）   
@@ -20,7 +20,7 @@
 1.7  测试术语划分  
 1.8  软件测试现状和趋势 （调查报告2018，调查报告2016）  
 1.9  软件测试工具  
-##  2.白盒测试 (PPT下载)
+##  2.白盒测试 （[PPT下载](https://github.com/npubird/softwaretesting/blob/master/白盒测试.pdf)）
 2.1  白盒测试概念  
 2.2  静态白盒测试  
 + 桌面检查  
@@ -41,7 +41,7 @@
 
 2.4  变异测试  
 2.5  白盒测试工具  
-##  3.黑盒测试(PPT下载)
+##  3.黑盒测试（[PPT下载](https://github.com/npubird/softwaretesting/blob/master/黑盒测试.pdf)）
 3.1  黑盒测试概念    
 +  需求跟踪矩阵  
 +  正面测试和负面测试  
@@ -56,7 +56,7 @@
 +  正交数组测试  
 
 3.3  黑盒测试工具    
-##  4.单元测试和集成测试(PPT下载)
+##  4.单元测试和集成测试（[PPT下载](https://github.com/npubird/softwaretesting/blob/master/单元测试和集成测试.pdf)）
 4.1  单元测试  
 +  驱动器  
 +  程序桩  
@@ -71,14 +71,14 @@
 4.4  随机测试  
 4.5  故障定位  
 4.5  测试工具  
-## 5.JUnit (PPT下载)
+## 5.JUnit （[PPT下载](https://github.com/npubird/softwaretesting/blob/master/JUnit.pdf)）
 5.1  JUnit基础  
 5.2  Junit使用
-## 6.系统测试(PPT下载)
+## 6.系统测试（[PPT下载](https://github.com/npubird/softwaretesting/blob/master/系统测试-确认测试-回归测试.pdf)）
 6.1  功能测试  
 6.2  非功能测试  
 6.3  回归测试  
-## 7.性能测试(PPT下载)
+## 7.性能测试（[PPT下载](https://github.com/npubird/softwaretesting/blob/master/性能测试.pdf)）
 7.1  性能测试基础
 7.2  性能测试工具
 ##  软件测试前沿
