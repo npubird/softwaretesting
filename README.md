@@ -6,7 +6,7 @@
 成绩登记（下载）更新：每次实验报告批改后
  
 # 课件内容：
-##  0.课程序言（PPT下载）
+##  0.课程序言（[PPT下载](https://github.com/npubird/softwaretesting/blob/master/课程序言.pdf)）
 0.1  课程内容  
 0.2  参考教材  
 0.3  考核方式
