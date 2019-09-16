@@ -95,7 +95,7 @@
 实验地点：计算机楼268机房
  
 实验报告模板 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验报告模板.docx))   
-实验报告命名：软件测试+学号+实验次数+.pdf
+实验报告命名：软件测试+学号+‘-’+实验次数+.pdf
  
 ##  实验一 白盒测试实验一
 实验指导书 (下载)  
