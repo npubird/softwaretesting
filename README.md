@@ -95,11 +95,18 @@
 实验地点：计算机楼268机房
  
 实验报告模板 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验报告模板.docx))   
-实验报告命名：软件测试+学号+‘-’+实验次数+.pdf
+  
+实验报告命名规则：  
+软件测试+学号+‘-’+实验次数，例如：软件测试71108129-1.pdf  
+
+实验报告提交要求：  
+（1）截止时间为周日；  
+（2）发送邮件到邮箱：seucosest@qq.com  
+（3）多个文件用zip格式打包  
  
 ##  实验一 白盒测试实验一
-实验指导书 (下载)  
-待测程序 (下载)
+实验指导书 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验一%20白盒测试实验一%20指导书.pdf))  
+待测程序 ([下载](https://github.com/npubird/softwaretesting/blob/master/WeekA.java))
 ##  实验二 白盒测试实验二
 实验指导书 (下载)  
 待测程序 (下载)
