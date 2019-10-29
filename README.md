@@ -95,6 +95,8 @@
 实验地点：计算机楼268机房
  
 实验报告模板 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验报告模板.docx))   
+
+实验报告成绩（每周更新）([下载](https://github.com/npubird/softwaretesting/blob/master/))
   
 实验报告命名规则：  
 软件测试+学号+‘-’+实验次数，例如：软件测试71108129-1.pdf  
@@ -108,8 +110,8 @@
 实验指导书 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验一%20白盒测试实验一%20指导书.pdf))  
 待测程序 ([下载](https://github.com/npubird/softwaretesting/blob/master/WeekA.java))
 ##  实验二 白盒测试实验二
-实验指导书 (下载)  
-待测程序 (下载)
+实验指导书 ([下载]())  
+待测程序 ([下载](https://github.com/npubird/softwaretesting/blob/master/WeekB.cpp))
 ##  实验三 白盒测试实验三
 实验指导书 (下载)  
 待测程序 (下载)
