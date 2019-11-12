@@ -116,8 +116,8 @@
 实验指导书 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验三%20白盒测试实验三%20指导书.pdf))  
 待测程序 ([下载](https://github.com/npubird/softwaretesting/blob/master/CGIDECODE的完整源代码ideone_Zf96q5.cpp))
 ##  实验四 黑盒测试实验一
-实验指导书 (下载)  
-待测程序 (程序1下载，程序2下载)
+实验指导书 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验四%20黑盒测试实验一%20指导书.pdf))  
+待测程序 ([程序1下载](https://github.com/npubird/softwaretesting/blob/master/NextDate.zip)，[程序2下载](https://github.com/npubird/softwaretesting/blob/master/box-black-box-gh-pages.zip))
 ##  实验五 黑盒测试实验二
 实验指导书 (下载)  
 待测程序 (程序1下载，程序2下载)
