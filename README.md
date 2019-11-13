@@ -119,8 +119,8 @@
 实验指导书 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验四%20黑盒测试实验一%20指导书.pdf))  
 待测程序 ([程序1下载](https://github.com/npubird/softwaretesting/blob/master/NextDate.zip)，[程序2下载](https://github.com/npubird/softwaretesting/blob/master/box-black-box-gh-pages.zip))
 ##  实验五 黑盒测试实验二
-实验指导书 ([下载]())  
-待测程序 ([程序1下载]()，[程序2下载]()，[程序3下载]())
+实验指导书 ([下载](https://github.com/npubird/softwaretesting/blob/master/实验五%20黑盒测试实验二%20指导书.pdf))  
+待测程序 ([程序1下载](https://github.com/npubird/softwaretesting/blob/master/RectManager.jar)，[程序2下载](https://github.com/npubird/softwaretesting/blob/master/RectManager.java)，[程序3下载](https://github.com/npubird/softwaretesting/blob/master/Sin.exe))
 ##  实验六 机试
 机试说明 (下载)  
 机试指导书 (下载)
